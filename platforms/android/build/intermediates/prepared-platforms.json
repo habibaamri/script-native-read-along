@@ -1,0 +1,13 @@
+{
+    "nativescript-audio": true,
+    "nativescript-dialog": true,
+    "nativescript-ezaudio": true,
+    "nativescript-linearprogressbar": true,
+    "nativescript-permissions": true,
+    "nativescript-slider": true,
+    "nativescript-sound": true,
+    "nativescript-texttospeech": true,
+    "nativescript-theme-core": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true
+}

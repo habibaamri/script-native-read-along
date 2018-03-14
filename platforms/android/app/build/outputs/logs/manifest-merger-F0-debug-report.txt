@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:3:2-45
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:3:2-45
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/F0/AndroidManifest.xml
+	android:versionName
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/F0/AndroidManifest.xml
+	android:versionCode
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/F0/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] /root/.android/build-cache/d0b0de830f45f4cafc8818b41c4c5c643f6d8957/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /root/.android/build-cache/b571f4c73c6c0f6b966642372e4dc6456ace1800/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a52fcf77883cb69774bd64e17a15b40080ca8db6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/e14ebdc5bda4ca16c3c06fa6e33615b4d25dd0ce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/0e8d5a490d630449d6c2f10c8da109fc327141fe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/f65df2528a51ed273d849db0a2700c75a9f93f8c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/73e08541002c4f57c09f05e385c209b15a2a23bc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4a4915acfb107ae87530ab5262ef9bb8fd9342f6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5740ec5237d3d80e60c1a1f1052e8336fffecafc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/103cc14070b72164d6aa780cd5ec3b35c253d1f1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/b8ec21d125c551bf542b9c53031edd419d72082b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/474abed9a83f7affe0308f372b0dc8b4b3b98c75/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/F0/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/F0/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [:widgets-release:] /root/.android/build-cache/b571f4c73c6c0f6b966642372e4dc6456ace1800/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a52fcf77883cb69774bd64e17a15b40080ca8db6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/e14ebdc5bda4ca16c3c06fa6e33615b4d25dd0ce/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/f65df2528a51ed273d849db0a2700c75a9f93f8c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/73e08541002c4f57c09f05e385c209b15a2a23bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4a4915acfb107ae87530ab5262ef9bb8fd9342f6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5740ec5237d3d80e60c1a1f1052e8336fffecafc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/103cc14070b72164d6aa780cd5ec3b35c253d1f1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/b8ec21d125c551bf542b9c53031edd419d72082b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/474abed9a83f7affe0308f372b0dc8b4b3b98c75/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a52fcf77883cb69774bd64e17a15b40080ca8db6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/e14ebdc5bda4ca16c3c06fa6e33615b4d25dd0ce/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/0e8d5a490d630449d6c2f10c8da109fc327141fe/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/f65df2528a51ed273d849db0a2700c75a9f93f8c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/73e08541002c4f57c09f05e385c209b15a2a23bc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4a4915acfb107ae87530ab5262ef9bb8fd9342f6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5740ec5237d3d80e60c1a1f1052e8336fffecafc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/103cc14070b72164d6aa780cd5ec3b35c253d1f1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/b8ec21d125c551bf542b9c53031edd419d72082b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/474abed9a83f7affe0308f372b0dc8b4b3b98c75/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/AndroidManifest.xml:26:9-47

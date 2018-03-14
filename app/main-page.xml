@@ -1,0 +1,7 @@
+<Page loaded="pageLoaded">
+    <StackLayout>
+        <Label text="First Screen" class="title" />
+        <Button text="Read book" tap="version0" />
+    </StackLayout>
+
+</Page>

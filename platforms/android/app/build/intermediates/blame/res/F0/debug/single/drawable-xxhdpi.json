@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/src/main/res/drawable-xxhdpi/background.png"
+    }
+]

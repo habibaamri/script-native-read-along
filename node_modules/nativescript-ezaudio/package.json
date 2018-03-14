@@ -1,0 +1,62 @@
+{
+  "_from": "nativescript-ezaudio",
+  "_id": "nativescript-ezaudio@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha1-fgi+PNU7kzx8rFy/+xtuZJE2B7A=",
+  "_location": "/nativescript-ezaudio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-ezaudio",
+    "name": "nativescript-ezaudio",
+    "escapedName": "nativescript-ezaudio",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-ezaudio/-/nativescript-ezaudio-1.1.7.tgz",
+  "_shasum": "7e08be3cd53b933c7cac5cbffb1b6e64913607b0",
+  "_spec": "nativescript-ezaudio",
+  "_where": "/root/ProjectNS/BookDigitalTest1",
+  "author": {
+    "name": "Nathan Walker",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-ezaudio/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "NativeScript plugin for the iOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.",
+  "homepage": "https://github.com/NathanWalker/nativescript-ezaudio",
+  "keywords": [
+    "NativeScript",
+    "EZAudio",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "Audio"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/NathanWalker/nativescript-ezaudio/blob/master/LICENSE"
+  },
+  "main": "ezaudio",
+  "name": "nativescript-ezaudio",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.1.1"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-ezaudio.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.1.7"
+}

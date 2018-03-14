@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d0b0de830f45f4cafc8818b41c4c5c643f6d8957/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/pre-dexed/debug/classes_f4f18d4efb69f193cb628d7ae0f60617ecfa3728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b571f4c73c6c0f6b966642372e4dc6456ace1800/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/pre-dexed/debug/classes_f036d14679fe7547f70acb38cb3ed277e61974dd.jar" />
+    </item>
+
+</items>

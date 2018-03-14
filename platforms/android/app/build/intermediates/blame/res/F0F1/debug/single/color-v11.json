@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0F1/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0F1/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

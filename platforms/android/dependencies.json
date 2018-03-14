@@ -1,0 +1,38 @@
+[
+    {
+        "name": "nativescript-audio",
+        "directory": "../../node_modules/nativescript-audio"
+    },
+    {
+        "name": "nativescript-linearprogressbar",
+        "directory": "../../node_modules/nativescript-linearprogressbar"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "../../node_modules/nativescript-permissions"
+    },
+    {
+        "name": "nativescript-slider",
+        "directory": "../../node_modules/nativescript-slider"
+    },
+    {
+        "name": "nativescript-sound",
+        "directory": "../../node_modules/nativescript-sound"
+    },
+    {
+        "name": "nativescript-texttospeech",
+        "directory": "../../node_modules/nativescript-texttospeech"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "../../node_modules/nativescript-theme-core"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    }
+]

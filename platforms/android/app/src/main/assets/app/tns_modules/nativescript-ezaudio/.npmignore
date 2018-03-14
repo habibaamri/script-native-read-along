@@ -1,0 +1,9 @@
+.vscode
+node_modules
+demo
+docs
+screenshots
+*.png
+*.log
+*.ts
+!*.d.ts

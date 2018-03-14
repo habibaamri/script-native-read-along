@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_primary_text_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/design_error.xml",
+        "source": "/root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/switch_thumb_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_search_url_text.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/3f1a3783c0ae0188f4fc617a072e2e6c7d605e64/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/switch_thumb_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/res/merged/F0/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/d0d63ad5c75efa4955351ca92e261637cc87e3b8/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]

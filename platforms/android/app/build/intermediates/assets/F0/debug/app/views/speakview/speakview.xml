@@ -1,0 +1,7 @@
+<Page  loaded="pageLoaded">
+
+    <StackLayout>
+    
+        <Button text="Speak" tap="speak" />
+    </StackLayout>
+</Page>

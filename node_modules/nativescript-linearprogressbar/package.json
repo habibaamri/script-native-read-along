@@ -1,0 +1,83 @@
+{
+  "_from": "nativescript-linearprogressbar",
+  "_id": "nativescript-linearprogressbar@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-BLjUgLuB42a3xpFfQ+RaTExu4dg=",
+  "_location": "/nativescript-linearprogressbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-linearprogressbar",
+    "name": "nativescript-linearprogressbar",
+    "escapedName": "nativescript-linearprogressbar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-linearprogressbar/-/nativescript-linearprogressbar-1.0.4.tgz",
+  "_shasum": "04b8d480bb81e366b7c6915f43e45a4c4c6ee1d8",
+  "_spec": "nativescript-linearprogressbar",
+  "_where": "/root/ProjectNS/BookDigitalTest1",
+  "author": {
+    "name": "slanca",
+    "email": "npmdroid@gmail.com"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/slanca/nativescript-linearprogressbar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A NativeScript plugin that provides a widget to implement a linear progress bar.",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^3.1.0",
+    "tns-platform-declarations": "^3.1.0",
+    "tslint": "^5.0.0",
+    "typescript": "~2.3.0"
+  },
+  "homepage": "https://github.com/slanca/nativescript-linearprogressbar",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "bar",
+    "linear",
+    "progress",
+    "loading"
+  ],
+  "license": "Apache-2.0",
+  "main": "linearprogressbar",
+  "name": "nativescript-linearprogressbar",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": "^3.0.0"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules && cd ../demo && rm -rf hooks node_modules platforms && cd ../src && npm run plugin.link",
+    "demo.android": "npm i && npm run tsc && cd ../demo && tns run android --syncAllFiles",
+    "demo.ios": "npm i && npm run tsc && cd ../demo && tns run ios --syncAllFiles",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-linearprogressbar && cd ../src",
+    "plugin.tscwatch": "npm run tsc -- -w",
+    "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "test.android": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\""
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.4"
+}

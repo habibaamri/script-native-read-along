@@ -1,0 +1,29 @@
+<Page  loaded="pageLoaded"  xmlns:ez="nativescript-ezaudio">
+  <StackLayout paddingLeft="15" paddingRight="15" dock="top" >
+    <Label textWrap="true">
+      <Label.formattedText>
+        <FormattedString>
+          <FormattedString.spans>
+            <Span  touch="{{changeColor}}"  text="By checking 'yes' I understand that this is a legally valid and binding written agreement, and I indicate that I have read, understand, and agree to the terms of my " />
+            <Span text="Agreement. " foregroundColor="#3aba90" tap="onTap" />
+            <Span touch="changeColor"  text="Also, by checking 'yes', I certify that I have read and agree to accept electronically the "  />
+            <Span text="Test ontap." foregroundColor="#3aba90" touch="{{changeColor}}" />
+          </FormattedString.spans>
+        </FormattedString>
+      </Label.formattedText>
+    </Label>
+
+
+
+      <Button text="Start" tap="playFromUrl"  />
+      <Button text ="Pause" tap="pause"/>
+      <Button text ="Restart" tap="restart"/>
+      <label  text="{{getMaxDuration }}+test duree" />
+
+
+<Label text="{{time}}"/>
+   <seekbar:Slider
+      minValue="0" maxValue="{{time}}" touch="{{dragged}}" />
+ </StackLayout>
+
+</Page>

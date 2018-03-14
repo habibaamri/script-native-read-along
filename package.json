@@ -1,0 +1,30 @@
+{
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <your-license-filename>",
+	"readme": "NativeScript Application",
+	"repository": "<fill-your-repository-here>",
+	"nativescript": {
+		"id": "org.nativescript.BookDigitalTest1",
+		"tns-android": {
+			"version": "3.4.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-audio": "^4.3.4",
+		"nativescript-dialog": "^0.1.0",
+		"nativescript-ezaudio": "^1.1.7",
+		"nativescript-linearprogressbar": "^1.0.4",
+		"nativescript-permissions": "^1.2.3",
+		"nativescript-slider": "^1.0.1",
+		"nativescript-sound": "^1.0.4",
+		"nativescript-texttospeech": "^2.0.2",
+		"nativescript-theme-core": "~1.0.4",
+		"tns-core-modules": "~3.4.0"
+	},
+	"devDependencies": {
+		"babel-traverse": "6.26.0",
+		"babel-types": "6.26.0",
+		"babylon": "6.18.0",
+		"lazy": "1.0.11"
+	}
+}

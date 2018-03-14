@@ -1,0 +1,38 @@
+
+<Page  loaded="pageLoaded"
+   xmlns:ns="nativescript-audio">
+   <StackLayout  >
+     <HtmlView html='<Strong>Test html view</Strong>' />
+
+<!--
+    <Repeater items="{{ Titles }}"     >
+        <Repeater.itemTemplate     >
+          <Label text="{{ Title }}"  touch="onTap" textWrap="true"
+                id="{{ id }}"  />
+        </Repeater.itemTemplate>
+     </Repeater>
+
+-->
+<ScrollView sdkExampleTitle sdkToggleNavButton style="height:665px;">
+  <StackLayout id="rp">
+                  <Repeater items="{{ myItems }}" >
+                    <Repeater.itemsLayout >
+                      <WrapLayout />
+                    </Repeater.itemsLayout>
+                    <Repeater.itemTemplate   >
+                      <Label text="{{ item }}" id="{{id}}"
+                        dataBegin="{{$value.begin}}"  dataEnd="{{end}}" margin="5"
+                        onTap="onTap" backgroundColor="{{color}}" />
+                    </Repeater.itemTemplate>
+                  </Repeater>
+                </StackLayout>
+
+  </ScrollView>
+  <StackLayout orientation="horizontal"  height="55" backgroundColor="lightgray">
+   <button text="play"  tap="playFromFile"   class="btn btn-primary btn-active p-5 m-5"   />
+          <button text="stop"  tap="pause" class="btn btn-primary btn-active p-5 m-5" />
+          <button text="restart"  tap="restart" class="btn btn-primary btn-active p-5 m-5" />
+</StackLayout>
+</StackLayout>
+
+</Page>

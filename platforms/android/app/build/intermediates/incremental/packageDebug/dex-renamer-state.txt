@@ -1,0 +1,4 @@
+#Sat Mar 03 12:11:54 WET 2018
+base.0=/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/root/ProjectNS/BookDigitalTest1/platforms/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
